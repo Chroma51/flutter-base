@@ -1,2 +1,2 @@
-# flutter-base
-A Flutter Base Ready-to-use project
+# A Flutter Base Project
+A Flutter base project which is ready-to-use.
